@@ -1,0 +1,7 @@
+# GOAL
+- 12 LPA Salary
+
+# 28th Feb
+- init the NextJS project
+- Setup UI: ShadCN, Font
+- Create Repo & Push
