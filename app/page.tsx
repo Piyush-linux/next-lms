@@ -1,10 +1,13 @@
-import { Button } from "@/components/ui/button";
+import Navbar from "./_components/Navbar";
+import Hero from "./_components/Hero";
 
 export default function Home() {
   return (
     <div>
-      <div className="text-4xl font-game">Hello</div>
-      <Button>Subscribe</Button>
+      {/*HEADER*/}
+      <Navbar />
+      {/*HERO*/}
+      <Hero />
     </div>
   );
 }
